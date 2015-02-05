@@ -1,0 +1,2 @@
+# mgtools
+Simple mongodb tools.
